@@ -1,0 +1,21 @@
+.form-bg{
+    background-color: #5CA5D9;
+    border-radius: 19px;
+    width: 50%;
+    margin: 0 auto;
+}
+body{
+    background-color: #E7F4FE;
+}
+.line-bg{
+    background-color: #5CA5D9;
+}
+.bg-peoples{
+    background-color: #13E9CF;
+}
+.bg-account{
+    background-color: #E97A13;
+}
+.bg-money{
+    background-color: red;
+}
